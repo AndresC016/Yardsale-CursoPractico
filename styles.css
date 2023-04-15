@@ -295,6 +295,7 @@ nav {
 /*Detalle del producto seleccionado*/
 
 .product-buy-detail {
+    background-color: var(--white);
     width: 360px;
     padding-bottom: 24px;
     position: absolute;
@@ -372,6 +373,7 @@ nav {
     }
     .product-detail {
         width: 100%;
+        padding-right: 24px;
     }
     .cards-container {
         display: grid;
